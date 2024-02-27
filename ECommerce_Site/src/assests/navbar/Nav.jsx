@@ -11,10 +11,10 @@ function Nav() {
       </div>
 
       <ul>
-        <li>Home</li>
-        <li>Mens</li>
-        <li>Women</li>
-        <li>Kids</li>
+        <li><Link to='home'>Home</Link></li>
+        <li><Link to='men'>Men</Link></li>
+        <li><Link to='women'>Womens</Link></li>
+        <li><Link to='kids'>Kids</Link></li>
       </ul>
 
 

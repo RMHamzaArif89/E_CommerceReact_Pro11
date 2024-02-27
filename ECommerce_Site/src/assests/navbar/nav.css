@@ -33,10 +33,13 @@ ul{
 ul li{
     list-style: none;
     font-size: 1.3rem;
-    color: blue;
     font-family: serif;
     padding: 8px;
     border-radius: 4px;
+}
+ul li a{
+    text-decoration: none;
+    color: blue;
 }
 ul li:hover{
     color: white;
