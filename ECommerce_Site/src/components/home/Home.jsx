@@ -5,6 +5,7 @@ import New from '../new/New'
 import Popular from '../popular/Popular'
 
 function Home() {
+  document.title='home'
   return (
     <div className='home'>
       <Header/>

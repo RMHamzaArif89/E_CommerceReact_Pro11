@@ -12,16 +12,15 @@ function Nav() {
       </div>
 
       <ul>
-        {/* <li><Link to='home'>Home</Link></li>
         <li><Link to='men'>Men</Link></li>
         <li><Link to='women'>Womens</Link></li>
-        <li><Link to='kids'>Kids</Link></li> */}
+        <li><Link to='kids'>Kids</Link></li>
       </ul>
 
 
 
       <div className="det">
-        <button className='login'>Login</button>
+        <button className='login'><Link to='login'>Login</Link></button>
         <div className="cart">cart</div>
 
       </div>

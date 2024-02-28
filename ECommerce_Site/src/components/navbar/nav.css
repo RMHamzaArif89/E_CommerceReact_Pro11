@@ -56,15 +56,17 @@ ul li:hover{
 .det .login{
     padding: 8px;
     font-size: 1.3rem;
-    color: red;
     background: lightskyblue;
     border-radius: 4px;
     outline: none;
     border: none;
 }
+.det .login a{
+    text-decoration: none;
+    color: red;
+}
 .det .login:hover{
     background: rgb(100, 185, 219);
-    color: black;
     cursor: pointer;
 }
 
