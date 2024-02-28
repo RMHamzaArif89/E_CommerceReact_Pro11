@@ -18,6 +18,7 @@
     justify-content: center;
     align-items: center;
     row-gap: 12px;
+  
     
 }
 .text .heading1{
@@ -36,7 +37,7 @@
     background: red;
 }
 
-.img{
+.header .img{
     width: 48%;
     height:100%;
     display: flex;

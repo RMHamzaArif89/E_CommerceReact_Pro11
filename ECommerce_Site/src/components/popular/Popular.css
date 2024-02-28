@@ -1,10 +1,9 @@
-.new{
+.popular{
     width: 100%;
     height: auto;
     display: flex;
     align-items: center;
     flex-direction: column;
     gap: 20px;
-    background: #000;
 
 }
